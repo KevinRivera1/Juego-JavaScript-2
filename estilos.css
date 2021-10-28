@@ -1,0 +1,23 @@
+main{
+    height: 75vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size:25px;
+    font-weight: bold;
+    text-justify: justify;
+}
+.icon{
+    Margin-left:20px;
+}
+canvas{
+    border-radius:10px;
+    border: groove 30px  rgb(169, 219, 248);
+}
